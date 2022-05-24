@@ -1,4 +1,4 @@
-*_backup
-*_old
+_backup
+_old
 tmp/
 /Thumbs.db
